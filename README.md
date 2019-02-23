@@ -22,18 +22,20 @@ The environment is considered solved for an average reward of +13 over 100 conse
 
 
 ## Installation
-Follow this link to get started:
+1. Follow this link to get started:
 https://github.com/udacity/deep-reinforcement-learning#dependencies
 
-Then execute the following commands to access the necessary files:
+2. Navigate to `deep-reinforcement-learning` directory in your `drlnd` environment
+```cd deep-reinforcement-learning```
 
-`cd deep-reinforcement-learning`
+3. Clone the repo
+```git clone git@github.com:rtmink/udacity-drl-banana.git```
 
-`git clone git@github.com:rtmink/udacity-drl-banana.git`
+4. Navigate to `drl-banana` folder
+```cd drl-banana```
 
-`cd drl-banana`
-
-`unzip Banana.app.zip`
+5. Unzip the unity environment
+```unzip Banana.app.zip```
 
 ## Training & Report
 Refer to `Navigation_train.ipynb` to see how the agent is implemented which includes the model architecture of the neural network. A plot of rewards per episode is also shown to show the number of episodes needed to solve the environment. Lastly, it highlights ideas for future work.
