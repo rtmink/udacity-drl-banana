@@ -1,4 +1,4 @@
-# Udacity DeepRL Banana Collector
+# Udacity Deep Reinforcement Learning Banana Collector
 
 ## Background
 This project involves training an agent to navigate in a squared world and collect as many yellow bananas as possible while avoiding blue bananas.
