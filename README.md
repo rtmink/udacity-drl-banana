@@ -22,10 +22,11 @@ The environment is considered solved for an average reward of +13 over 100 conse
 
 
 ## Installation
-Follow this link to ge started:
+Follow this link to get started:
 https://github.com/udacity/deep-reinforcement-learning#dependencies
 
 Then execute the following commands to access the necessary files:
+
 `cd deep-reinforcement-learning`
 
 `git clone git@github.com:rtmink/udacity-drl-banana.git`
