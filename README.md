@@ -49,5 +49,5 @@ unzip Banana.app.zip
 ## Training & Report
 Refer to `Navigation_train.ipynb` to see how the agent is implemented which includes the model architecture of the neural network. A plot of rewards per episode is also shown to show the number of episodes needed to solve the environment. Lastly, it highlights ideas for future work.
 
-## Evaluating
+## Evaluation
 Refer to `Navigation_eval.ipynb` to see how the trained agent performs in Unity Banana Collector environment built for Udacity.
