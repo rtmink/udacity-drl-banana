@@ -38,7 +38,7 @@ git clone git@github.com:rtmink/udacity-drl-banana.git
 
 4. Navigate to `udacity-drl-banana` folder
 ```
-cd drl-banana
+cd udacity-drl-banana
 ```
 
 5. Unzip the unity environment
