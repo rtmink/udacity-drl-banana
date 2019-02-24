@@ -36,7 +36,7 @@ cd deep-reinforcement-learning
 git clone git@github.com:rtmink/udacity-drl-banana.git
 ```
 
-4. Navigate to `drl-banana` folder
+4. Navigate to `udacity-drl-banana` folder
 ```
 cd drl-banana
 ```
@@ -47,7 +47,12 @@ unzip Banana.app.zip
 ```
 
 ## Training & Report
-Refer to `Navigation_train.ipynb` to see how the agent is implemented which includes the model architecture of the neural network. A plot of rewards per episode is also shown to show the number of episodes needed to solve the environment. Lastly, it highlights ideas for future work.
+Run the following command in the `udacity-drl-banana` folder:
+```
+jupyter notebook
+```
+
+In the notebook, refer to `Report.ipynb` to see how the agent is implemented and trained. The implementation includes the model architecture of the neural network. A plot of rewards per episode for each agent is also shown to show the number of episodes needed to solve the environment. Lastly, it highlights ideas for future work.
 
 ## Evaluation
-Refer to `Navigation_eval.ipynb` to see how the trained agent performs in Unity Banana Collector environment built for Udacity.
+Refer to `Navigation.ipynb` to see how the trained agent performs in Unity Banana Collector environment built for Udacity.
