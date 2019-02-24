@@ -35,7 +35,7 @@ cd deep-reinforcement-learning
 
 3. Clone the repo
 ```
-git clone git@github.com:rtmink/udacity-drl-banana.git
+git clone https://github.com/rtmink/udacity-drl-banana.git
 ```
 
 4. Navigate to `udacity-drl-banana` folder
