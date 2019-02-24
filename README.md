@@ -1,5 +1,7 @@
 # Udacity Deep Reinforcement Learning Banana Collector
 
+![Agent collecting yellow bananas](banana.gif)
+
 ## Background
 This project involves training an agent to navigate in a squared world and collect as many yellow bananas as possible while avoiding blue bananas.
 
